@@ -1,7 +1,7 @@
 # 🚀 DSA-with-Cpp-and-JavaScript
 
 > **Let’s connect in this journey!**  
-> This repository is my daily log of DSA practice using **C++** and **JavaScript**.  
+> This repository is my daily Blog of DSA practice using **C++** and **JavaScript**.  
 > I’m committed to uploading every concept I learn, and every problem I solve – consistently, every single day. 🧠🔥
 
 ---
@@ -10,13 +10,15 @@
 
 I am learning & building my Data Structures and Algorithms foundation using **C++** and **JavaScript**.
 
-| Day | Topic            | Language     | Status       |
-|-----|------------------|--------------|--------------|
-| 1   | C++ Basics       | C++          | ✅ Completed |
-| 2   | Loops & Control  | C++          | ✅ Completed |
-| 3   | Functions        | C++          | ✅ Completed |
-| 4   | Arrays           | C++          | 🔜 Upcoming  |
-| 5   | Strings          | JavaScript   | 🔜 Upcoming  |
+| Day | Topic                     | Language     | Status       |
+|-----|---------------------------|--------------|--------------|
+| 1   | C++ Basics                | C++          | ✅ Completed |
+| 2   | Loops & Control Statements| C++          | ✅ Completed |
+| 3   | 20+ Practice Questions    | C++          | ✅ Completed |
+| 4   | Functions                 | C++          | 🔜 Upcoming  |
+| 5   | Pattern Printing          | C++          | 🔜 Upcoming  |
+| 6   | Arrays                    | C++          | 🔜 Upcoming  |
+| 7   | Strings                   | JavaScript   | 🔜 Upcoming  |
 
 > 💡 I update this table daily with new files and folders.
 
@@ -35,16 +37,14 @@ I am learning & building my Data Structures and Algorithms foundation using **C+
 - 🧠 Logical thinking through code
 - 📂 Clean folder structure
 - 📈 Real learning journey — raw and honest!
-
----
-
+- 🚀 Solved **20+ practice questions** in a single day — grinding hard!
 
 ---
 
 ## 🤝 Let’s Connect
 
 - 📧 Email: ompalyadav2235@gmail.com  
-- 💼 LinkedIn: [Your LinkedIn Link](https://linkedin.com/in/your-profile)  
+- 💼 LinkedIn: [LinkedIn/OmpalYadav](https://linkedin.com/in/your-profile)  
 - 🔗 GitHub: [@OmpalYadav](https://github.com/OmpalYadav)
 
 ---
